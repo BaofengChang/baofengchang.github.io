@@ -1,0 +1,44 @@
+.nav_part {
+    width: 25vw;
+    height: 100vh;
+    position: fixed;
+    background-color: #333334;
+    text-align: center;
+    padding: 50px;
+}
+
+.nav_img {
+    width: 60%;
+    /*horiz-align: center;*/
+    border-radius: 50%;
+    /*text-align: center;*/
+}
+
+.nav_name{
+    padding-top: 30px;
+    /*font-family: "Microsoft YaHei UI Light";*/
+    color: #ffffff;
+    font-size: 40px;
+}
+
+.nav_list{
+    text-align: left;
+    color: #fdfdfe;
+}
+
+.main{
+    width: 75vw;
+    height: 100vh;
+    position: absolute;
+    left: 25vw;
+    background-color: #e3e2e2;
+    padding: 30px;
+}
+
+h1 h2 h3 h4 h5{
+    padding-top: 15px;
+}
+
+p{
+    font-size: 20px;
+}
